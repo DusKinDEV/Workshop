@@ -1,7 +1,7 @@
 <h1 align="center"> Página Workshop 🚀💻</h1>
 
 ![Imagem do projeto finalizado](./assets/images/workshop-page.png)
-!
+
 <h4 align="center"><a href="https://workshop-ebon.vercel.app">Confira o projeto aqui</a></h4>
 
 ## 🧠 Tecnologias utilizadas:
